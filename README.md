@@ -1,4 +1,4 @@
-![](https://www.codewars.com/users/alicnik/badges/large)
+[![Codewars 3 kyu badge](https://www.codewars.com/users/alicnik/badges/large)](https://www.codewars.com/users/alicnik)
 
 <!--
 **alicnik/alicnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
